@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vikram
 - 👀 I’m a Mechanical Design Engineer aspiring to become Software Developer
-- 🌱 I’m currently learning Node.js and Express.js
+- 🌱 I’m currently learning React js.
 - 📫 How to reach me - alonevikram@gmail.com, @vikram_kicz
 
 <!---
